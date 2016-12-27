@@ -59,4 +59,11 @@ public class Link {
         }
         return true;
     }
+
+    /**
+     * This method runs all the scripts;
+     */
+    public void run() {
+
+    }
 }
